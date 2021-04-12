@@ -1,18 +1,18 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Frete Grátis para todo o Brasil"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Parcelamos em até 18x"
   },
   "exchange": {
     "show": true,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": "Transferência/Depósito: 5% de desconto"
   },
   "promo": {
-    "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "show": false,
+    "text": ""
   }
 }
